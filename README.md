@@ -14,8 +14,7 @@ Used in Minecraft usually by a client named Horion to troll/have fun with friend
 * You can get Horion Client for free from https://horion.download
 
 ## Authors
-
-MadCritical 
+ 
 [@MadCritical](http://discordapp.com/users/727676706319499280)
 
 ## License
