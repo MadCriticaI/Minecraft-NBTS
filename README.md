@@ -6,7 +6,8 @@ Used in Minecraft usually by a client named Horion to troll/have fun with friend
 
 ### Dependencies
 
-* Practically all you'll need is a copy of Bedrock Edition Minecraft and Horion Client, moving further all youll need to do is paste the program into the built in injector and from there you type a command to execute the scripts.
+* Practically all you'll need is a copy of Bedrock Edition Minecraft and Horion Client, moving further all youll need to do is copy the program and from there you type the command ".nbt load".
+* If you would like a more indepth tutorial on how to execute NBTS you make head to [This](https://www.youtube.com/watch?v=Pmmgo2buKAM)
 
 ### Installing
 
@@ -20,3 +21,7 @@ Used in Minecraft usually by a client named Horion to troll/have fun with friend
 ## License
 
 My products arent Licensed you may use them to work on bigger projects and or make them your own.
+
+##Credits
+
+Credits to [@NicktrosGaming](https://www.youtube.com/@NicktrosGaming) for the video demonstration
