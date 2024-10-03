@@ -1,4 +1,4 @@
-# Minecraft NBTS
+w# Minecraft NBTS
 
 Used in Minecraft usually by a client named Horion to troll/have fun with friends
 
@@ -7,7 +7,7 @@ Used in Minecraft usually by a client named Horion to troll/have fun with friend
 ### Dependencies
 
 * Practically all you'll need is a copy of Bedrock Edition Minecraft and Horion Client, moving further all youll need to do is copy the program and from there you type the command ".nbt load".
-* If you would like a more indepth tutorial on how to execute NBTS you make head to [This](https://www.youtube.com/watch?v=Pmmgo2buKAM) video.
+* If you would like a more indepth tutorial on how to execute NBTS you may check out [This](https://www.youtube.com/watch?v=Pmmgo2buKAM) video.
 
 ### Installing
 
