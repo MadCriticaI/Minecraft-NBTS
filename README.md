@@ -1,4 +1,4 @@
-w# Minecraft NBTS
+# Minecraft NBTS
 
 Used in Minecraft usually by a client named Horion to troll/have fun with friends
 
