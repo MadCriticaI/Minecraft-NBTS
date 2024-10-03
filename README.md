@@ -1,6 +1,6 @@
 # Minecraft NBTS
 
-Used in Minecraft usually by a client named Horion to troll/have fun with friends
+Used in Minecraft usually by a client named Horion to troll/have fun with friends ORRRRR to use for your own benifit withing a singleplayer world.
 
 ## Getting Started
 
